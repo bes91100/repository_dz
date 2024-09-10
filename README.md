@@ -195,20 +195,6 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDGuxAyKujYUQtRG/tNdMYmrAspP7RvPsgXmzPhNH2AI
 
 bes@bes-virtualbox:~/projects/project1$ cat ~/.ssh/linux_project_dz
 
------BEGIN OPENSSH PRIVATE KEY-----
-
-~~b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW~~
-
-~~QyNTUxOQAAACAxrsQMiro2FELURv7TXTGJqwLKT+0bz7IF5sz4TR9gCAAAAJhQ1jSsUNY0~~
-
-~~rAAAAAtzc2gtZWQyNTUxOQAAACAxrsQMiro2FELURv7TXTGJqwLKT+0bz7IF5sz4TR9gCA~~
-
-~~AAAEAGnNaXcNBFqzfL5KvyNAVX9ukrJTD7PdEbmAXoQV6mRzGuxAyKujYUQtRG/tNdMYmr~~
-
-~~AspP7RvPsgXmzPhNH2AIAAAAEmJlc0BiZXMtdmlydHVhbGJveAECAw==~~
-
------END OPENSSH PRIVATE KEY-----
-
 bes@bes-virtualbox:~/projects/project1$ ^C
 
 bes@bes-virtualbox:~/projects/project1$ cd ~/.ssh
